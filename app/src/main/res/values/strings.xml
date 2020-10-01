@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My App1</string>
+    <string name="titulo">Formulario</string>
+    <string name="titulo2">Datos</string>
+
+    <string name="nombre">Nombres</string>
+    <string name="apellido">Apellidos</string>
+    <string name="dni">DNI</string>
+    <string name="cui">CUI</string>
+    <string name="correo">Correo institucional</string>
+    <string name="edad">Edad</string>
+    <string name="facultad">Facultad</string>
+    <string name="escuela">Escuela Profesional</string>
+    <string name="enviar">Enviar</string>
+    <string name="ok">Ok</string>
+
+
+</resources>

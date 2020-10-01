@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <dimen name="tamanio_letra">25dp</dimen>
+    <dimen name="tamanio_letra_mostrar">20dp</dimen>
+
+    <dimen name="espacio">25dp</dimen>
+
+</resources>
